@@ -1,0 +1,23 @@
+/*
+    greeting
+    ---------------------------
+
+    Jason Project File
+
+    This file defines the initial state of the MAS
+
+    Jason 
+    diciembre 15, 2019 - 15:15:09
+*/
+
+MAS greeting {
+
+    infrastructure: Centralised
+
+    agents:
+        bob;
+
+        tom;
+
+}
+

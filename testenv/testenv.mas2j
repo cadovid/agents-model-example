@@ -1,0 +1,23 @@
+/*
+    testenv
+    ---------------------------
+
+    Jason Project File
+
+    This file defines the initial state of the MAS
+
+    Jason 
+    diciembre 15, 2019 - 15:22:08
+*/
+
+MAS testenv {
+
+    infrastructure: Centralised
+
+    environment: TestEnv
+
+    agents:
+        liz;
+
+}
+
